@@ -4,8 +4,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <link rel="stylesheet" href="./src/reset.css">
     <link rel="stylesheet" href="./src/style.css">
+    <link rel="stylesheet" href="./src/week-one/weekOne.css">
     <title>Document</title>
 </head>
 <body>
@@ -17,19 +19,19 @@
                     Assignments
                 </div>
                 <div class="drop">
-                    <a href="">Week One</a>
+                    <a id="weekOneAssignmentAnchor">Week One</a>
                 </div>
             </div>
             <div class="dropDown">
                 <div class="dropBtn">Discussions</div>
                 <div class="drop">
-                    <a href="">Week One</a>
+                    <a id="weekOneDiscussionAnchor">Week One</a>
                 </div>
             </div>
             <div class="dropDown">
                 <div class="dropBtn">Reflections</div>
                 <div class="drop">
-                    <a href="">Week One</a>
+                    <a id="weekOneReflectionAnchor">Week One</a>
                 </div>
             </div>
             <div class="dropDown">
@@ -52,23 +54,22 @@
             </div>
         </nav>
     </header>
-    <main>
-        <div id="cubeContainer"></div>
+    <main id="main">
         <section class="leftSection mainSection">
             <img id="profilePic" src="./assets/profilepic.png">
         </section>
         <section id="rightSection" class="rightSection mainSection">
-            <h2>
+            <h2 id="helloMsg">
                 <span>Hello,</span></br>
                 <span>I'm</span> <span>Johnny</span> <span>York</span></br>
                 <span>Welcome</span> <span>to</span> <span>My</span> <span>Portfolio</span>
             </h2>
         </section>
-        
     </main>
     <footer>
         &copy Johnny York - INFM322 - Mercer University
     </footer>
-    <script src="./src/index.js"></script>
+
+    <script type="module" src="./src/index.js"></script>
 </body>
 </html>

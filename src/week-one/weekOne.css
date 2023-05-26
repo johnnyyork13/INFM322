@@ -1,0 +1,30 @@
+#weekOneAssignment {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: flex-start;
+    margin-top: 50px;
+}
+
+#weekOneAssignment > * {
+    margin: 20px;
+}
+
+#weekOneAssignment > h2 {
+    font-size: 2em;
+    font-weight: bolder;
+}
+
+#weekOneAssignment a {
+    font-size: 1.5em;
+    text-decoration: underline;
+}
+
+#weekOneDiscussion {
+    align-self: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    width: 70%;
+    font-size: 1.3em;
+}
