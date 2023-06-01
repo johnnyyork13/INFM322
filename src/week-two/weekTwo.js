@@ -136,7 +136,16 @@ export function loadWeekTwoDiscussion(container) {
     removeContent(container);
     container.innerHTML = `
         <div id="weekTwoDiscussion">
-            <p>DISCUSSION</p>
+            <h2>Templates or Layout</h2>
+            <br>
+            <p>The main difference between designing a web page with a template versus using a layout is the amount of control the developer has on the finished product. When using a layout, the task of establishing the websites structure is resolved, leaving everything else to the developer. Components like color choices, fonts, and styles have yet to be established, so they must still be decided on. Templates, on the other hand, generally take care of everything. All the website’s potential components are readily styled and prepared in a template, allowed the developer to focus more on content and less on style.</p>
+            <br>
+            <p>Templates and layouts are both great, as they reduce the amount of time it takes a developer to prototype a website. Personally, regarding whether I prefer to use a template or a layout, I prefer a template. Finding a template, or even using a template as a reference while building my own, is a much better choice for me than simply using a layout. The user experience is the primary focus of web applications today, and many templates are tested and can deliver a positive user experience. Although many layouts are tested as well, layouts generally lack styling and require relatively more time to implement when compared to a template. Unless a web developer is tasked with designing an application that is truly unique or serves an extremely unique purpose, templates are undoubtedly the way to go.<p>
+            <br>
+            <h3>References</h3>
+            <p>Scott, C. (2023, Feb 1). What is a website template? SquareSpace. <a>https://www.squarespace.com/blog/what-is-a-website-template#:~:text=Website%20templates%20are%20pre%2Ddesigned,to%20make%20it%20your%20own</a></p>
+            <br>
+            <p>Hanna, K. (n.d.). What is a template? TechTarget. <a>https://www.techtarget.com/whatis/definition/template</a></p>
         </div>
     `
 }
