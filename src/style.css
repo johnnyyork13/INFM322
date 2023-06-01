@@ -88,9 +88,16 @@ nav {
     padding-top: 10px;
     padding-bottom: 10px;
     border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+a:first-child {
+    margin-top: 0px;
 }
 
 a {
+    margin-top: 10px;
     text-decoration: none;
     color: var(--eleven);
 }
@@ -217,7 +224,7 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 30px;
+    height: 40px;
     background-color: var(--ten);
     padding-top: 5px;
     padding-bottom: 5px;
