@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.a95788c2.css",
+    "main.js": "./static/js/main.ad4467ed.js",
+    "static/js/787.39f401f6.chunk.js": "./static/js/787.39f401f6.chunk.js",
+    "static/media/chicken-six.jpg": "./static/media/chicken-six.6e53b2e6bacfae217b94.jpg",
+    "static/media/chicken-seven.jpg": "./static/media/chicken-seven.e86c6f239e406fd1cfc1.jpg",
+    "static/media/chicken-four.jpg": "./static/media/chicken-four.302dda4159e9f846578c.jpg",
+    "static/media/chicken-five.jpg": "./static/media/chicken-five.24c806f8ed4d41300cc9.jpg",
+    "static/media/chickPicOne.png": "./static/media/chickPicOne.f00bc29d56f421188ec8.png",
+    "static/media/chicken-nine.jpeg": "./static/media/chicken-nine.c7bb8f9a27240eaaf3a7.jpeg",
+    "static/media/chicken-three.jpeg": "./static/media/chicken-three.81830ba31fc47374c418.jpeg",
+    "static/media/chicken-two.jpeg": "./static/media/chicken-two.f21177b0950101f176c6.jpeg",
+    "static/media/chicken-eight.jpeg": "./static/media/chicken-eight.17517d17777fa22f16a5.jpeg",
+    "static/media/chicken-one.jpeg": "./static/media/chicken-one.ecc88291d1776274e8a4.jpeg",
+    "static/media/Eowyn.png": "./static/media/Eowyn.f4d84b4cc364219c058e.png",
+    "static/media/chickenLogoTwo.png": "./static/media/chickenLogoTwo.1a6f7e731ac8587a2490.png",
+    "static/media/chickenLogoOne.png": "./static/media/chickenLogoOne.b57010f24c9cef2f23a3.png",
+    "index.html": "./index.html",
+    "main.a95788c2.css.map": "./static/css/main.a95788c2.css.map",
+    "main.ad4467ed.js.map": "./static/js/main.ad4467ed.js.map",
+    "787.39f401f6.chunk.js.map": "./static/js/787.39f401f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a95788c2.css",
+    "static/js/main.ad4467ed.js"
+  ]
+}
