@@ -13,8 +13,8 @@ export function loadWeekThreeAssignment(container) {
 
         <div class="layout">
             <div class="layout-slide-container">
-                <img  class="layout-slide" src="../../assets/Proposal/Picture1.png" alt="Storyboard Slide" />
-                <img  class="layout-slide"src="../../assets/Proposal/Picture2.png" alt="Storyboard Slide" />
+                <img  class="layout-slide" src="./assets/Proposal/Picture1.png" alt="Storyboard Slide" />
+                <img  class="layout-slide"src="./assets/Proposal/Picture2.png" alt="Storyboard Slide" />
             </div>
 
         </div>

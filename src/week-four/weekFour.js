@@ -13,14 +13,14 @@ export function loadWeekFourAssignment(container) {
 
         <div class="layout">
             <div class="layout-slide-container">
-                <img  class="layout-slide" src="../../assets/Storyboard/Slide1.PNG" alt="Storyboard Slide" />
-                <img  class="layout-slide"src="../../assets/Storyboard/Slide2.PNG" alt="Storyboard Slide" />
-                <img  class="layout-slide"src="../../assets/Storyboard/Slide3.PNG" alt="Storyboard Slide" />
-                <img  class="layout-slide"src="../../assets/Storyboard/Slide4.PNG" alt="Storyboard Slide" />
-                <img  class="layout-slide"src="../../assets/Storyboard/Slide5.PNG" alt="Storyboard Slide" />
-                <img  class="layout-slide"src="../../assets/Storyboard/Slide6.PNG" alt="Storyboard Slide" />
-                <img  class="layout-slide"src="../../assets/Storyboard/Slide7.PNG" alt="Storyboard Slide" />
-                <img  class="layout-slide"src="../../assets/Storyboard/Slide8.PNG" alt="Storyboard Slide" />
+                <img  class="layout-slide" src="./assets/Storyboard/Slide1.PNG" alt="Storyboard Slide" />
+                <img  class="layout-slide"src="./assets/Storyboard/Slide2.PNG" alt="Storyboard Slide" />
+                <img  class="layout-slide"src="./assets/Storyboard/Slide3.PNG" alt="Storyboard Slide" />
+                <img  class="layout-slide"src="./assets/Storyboard/Slide4.PNG" alt="Storyboard Slide" />
+                <img  class="layout-slide"src="./assets/Storyboard/Slide5.PNG" alt="Storyboard Slide" />
+                <img  class="layout-slide"src="./assets/Storyboard/Slide6.PNG" alt="Storyboard Slide" />
+                <img  class="layout-slide"src="./assets/Storyboard/Slide7.PNG" alt="Storyboard Slide" />
+                <img  class="layout-slide"src="./assets/Storyboard/Slide8.PNG" alt="Storyboard Slide" />
             </div>
 
         </div>

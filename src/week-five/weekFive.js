@@ -12,7 +12,7 @@ export function loadWeekFiveAssignment(container) {
     <div id="weekFiveAssignment">
 
         <div class="layout">
-            <img src="../../assets/Golden-Rules.png" />
+            <img src="./assets/Golden-Rules.png" />
         </div>
 
     </div>
