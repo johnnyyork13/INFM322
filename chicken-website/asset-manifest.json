@@ -1,28 +1,33 @@
 {
   "files": {
-    "main.css": "./static/css/main.4acea72b.css",
-    "main.js": "./static/js/main.d3fae483.js",
+    "main.css": "./static/css/main.20d647f7.css",
+    "main.js": "./static/js/main.4d14f33d.js",
     "static/js/787.39f401f6.chunk.js": "./static/js/787.39f401f6.chunk.js",
-    "static/media/chicken-six.jpg": "./static/media/chicken-six.6e53b2e6bacfae217b94.jpg",
-    "static/media/chicken-seven.jpg": "./static/media/chicken-seven.e86c6f239e406fd1cfc1.jpg",
-    "static/media/chicken-four.jpg": "./static/media/chicken-four.302dda4159e9f846578c.jpg",
-    "static/media/chicken-five.jpg": "./static/media/chicken-five.24c806f8ed4d41300cc9.jpg",
     "static/media/chickPicOne.png": "./static/media/chickPicOne.f00bc29d56f421188ec8.png",
-    "static/media/chicken-nine.jpeg": "./static/media/chicken-nine.c7bb8f9a27240eaaf3a7.jpeg",
     "static/media/chicken-three.jpeg": "./static/media/chicken-three.81830ba31fc47374c418.jpeg",
-    "static/media/chicken-two.jpeg": "./static/media/chicken-two.f21177b0950101f176c6.jpeg",
-    "static/media/chicken-eight.jpeg": "./static/media/chicken-eight.17517d17777fa22f16a5.jpeg",
     "static/media/chicken-one.jpeg": "./static/media/chicken-one.ecc88291d1776274e8a4.jpeg",
     "static/media/Eowyn.png": "./static/media/Eowyn.f4d84b4cc364219c058e.png",
+    "static/media/plymouth-rock.png": "./static/media/plymouth-rock.7af092366a39d8e22bd0.png",
+    "static/media/orpington.png": "./static/media/orpington.12c5f64a245b9fae1068.png",
+    "static/media/ameraucana.png": "./static/media/ameraucana.a8d99f7d8346b9def8c2.png",
+    "static/media/rhode-island-red.png": "./static/media/rhode-island-red.9ee51eeaabd79042737f.png",
+    "static/media/sussex.png": "./static/media/sussex.bf577db1b57d7ee0a2fc.png",
+    "static/media/silkie.png": "./static/media/silkie.62fe8298a2b0532c8303.png",
+    "static/media/leghorn.png": "./static/media/leghorn.672a8ffb1ef7dbf2c5af.png",
+    "static/media/polish.png": "./static/media/polish.bdf2e505ddbb574a68b0.png",
+    "static/media/brahma.png": "./static/media/brahma.c5da7df9f2dd92e260ae.png",
+    "static/media/new-hampshire-red.png": "./static/media/new-hampshire-red.f5051aa40878e1803e56.png",
     "static/media/chickenLogoTwo.png": "./static/media/chickenLogoTwo.1a6f7e731ac8587a2490.png",
     "static/media/chickenLogoOne.png": "./static/media/chickenLogoOne.b57010f24c9cef2f23a3.png",
+    "static/media/insta.png": "./static/media/insta.cc01e196eb09c7a9add2.png",
+    "static/media/profile-default.png": "./static/media/profile-default.8464ad283636db6cb3dd.png",
     "index.html": "./index.html",
-    "main.4acea72b.css.map": "./static/css/main.4acea72b.css.map",
-    "main.d3fae483.js.map": "./static/js/main.d3fae483.js.map",
+    "main.20d647f7.css.map": "./static/css/main.20d647f7.css.map",
+    "main.4d14f33d.js.map": "./static/js/main.4d14f33d.js.map",
     "787.39f401f6.chunk.js.map": "./static/js/787.39f401f6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4acea72b.css",
-    "static/js/main.d3fae483.js"
+    "static/css/main.20d647f7.css",
+    "static/js/main.4d14f33d.js"
   ]
 }
