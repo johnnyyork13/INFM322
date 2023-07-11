@@ -40,31 +40,32 @@ export function loadWeekOneReflection(container) {
     removeContent(container);
     container.innerHTML = `
     <div id="weekOneReflection">
-            <h2>Week One Reflections</h2>
-            <h3>Identify and define 10 crucial elements of the web design:</h3>
-            <ol>
-                <li>Space- Dictates readability and flow. Also helps with grouping like elements together.</li>
-                <li>Simple Navigation- Allows users to easily navigate through a site.</li>
-                <li>About Us- Tells the users who you are and what you do. </li>
-                <li>Contact Information- Adds legitimacy to your site as well as allowing users to contact you.</li>
-                <li>Call to Action- Obvious prompts or instructions to encourage users to do a desirable thing.</li>
-                <li>Search- a feature that allows users to search your site for information.</li>
-                <li>Informational Footer- a section at the end of the page containing more useful information.</li>
-                <li>Button Styles- Make buttons recognizable as buttons.</li>
-                <li>Images- Pick images that draw attention and illustrate your brand.</li>
-                <li>Web Fonts- Use fonts that stand out and are easily readable.</li>
-            </ol>
-
-            <h3>What is the difference between HTML and CSS?</h3>
-            <p>HTML is a markup language that is used to design and build static web pages. CSS is a styling language 
-                that is responsible for styling and adding visual appeal to those web pages. 
-            </p>
-            <h3>Why is UX important for web design?</h3>
-            <p>UX is important because it provides a positive experience to a website's users.
-                When a user's experience is positive and fulfills their needs, they are more likely
-                to return and continue using the website in the future. This is vital for a company
-                or website to be successful, as returning users are the foundation of 
-                a successful website. 
-            </p>
+            <div class="reflection">
+                <h2>Week One Reflections</h2>
+                <h3>Identify and define 10 crucial elements of the web design:</h3>
+                <ol>
+                    <li>Space- Dictates readability and flow. Also helps with grouping like elements together.</li>
+                    <li>Simple Navigation- Allows users to easily navigate through a site.</li>
+                    <li>About Us- Tells the users who you are and what you do. </li>
+                    <li>Contact Information- Adds legitimacy to your site as well as allowing users to contact you.</li>
+                    <li>Call to Action- Obvious prompts or instructions to encourage users to do a desirable thing.</li>
+                    <li>Search- a feature that allows users to search your site for information.</li>
+                    <li>Informational Footer- a section at the end of the page containing more useful information.</li>
+                    <li>Button Styles- Make buttons recognizable as buttons.</li>
+                    <li>Images- Pick images that draw attention and illustrate your brand.</li>
+                    <li>Web Fonts- Use fonts that stand out and are easily readable.</li>
+                </ol>
+                <h3>What is the difference between HTML and CSS?</h3>
+                <p>HTML is a markup language that is used to design and build static web pages. CSS is a styling language
+                    that is responsible for styling and adding visual appeal to those web pages.
+                </p>
+                <h3>Why is UX important for web design?</h3>
+                <p>UX is important because it provides a positive experience to a website's users.
+                    When a user's experience is positive and fulfills their needs, they are more likely
+                    to return and continue using the website in the future. This is vital for a company
+                    or website to be successful, as returning users are the foundation of
+                    a successful website.
+                </p>
+            </div>
         </div>`
 }

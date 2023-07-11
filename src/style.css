@@ -216,7 +216,7 @@ span:nth-child(10) {
   }
 
 footer {
-    position: sticky;
+    position: fixed;
     margin-top: 50px;
     bottom: 0;
     width: 100%;

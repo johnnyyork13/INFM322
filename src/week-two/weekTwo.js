@@ -149,3 +149,26 @@ export function loadWeekTwoDiscussion(container) {
         </div>
     `
 }
+
+export function loadWeekTwoReflection(container) {
+    removeContent(container);
+    container.innerHTML = `
+    
+        <div id="weekTwoReflection">
+            <div class="reflection">
+                <h2>Week Two Reflections</h2>
+                <h3>What do you think about your first page?</h3>
+                <p>I found my first page to be lacking functionality wise. I feel that it would have felt more immersive if the user was able to login and interact with the site more. I understand that this was not the point of the assignment, I just feel that immersion is extremely important. I liked the style and layout I used, though.
+
+                <h3>How can it be improved?</h3>
+                <p>I have been learning React alongside my studies here at Mercer, so I feel like implementing some React functionality would drastically improve its usefulness. Other than functionality-related issues, I felt that my prototype followed modern practices.
+                
+                <h3>Screenshot of website:</h3>
+                <img src="../../assets/webpage-ss.png" alt="Website Screenshot" />
+                
+                </div>
+
+        </div>
+
+    `
+}
